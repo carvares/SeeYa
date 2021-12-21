@@ -7,7 +7,6 @@
     "node": "16.x"
   },
   "scripts": {
-    "build":"NODE_ENV=production node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/app.js",
     "start": "NODE_ENV=production node src/app.js"
